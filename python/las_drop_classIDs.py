@@ -1,8 +1,8 @@
 import os
 import numpy as np
 
-strDirIn = 'H:/Spectrum_Ecology/BHP Vegetation/BHP Remote Sensing Phase 2/YANDI WD/RGB POINT CLOUD'
-strDirOut = 'H:/Spectrum_Ecology/BHP Vegetation/BHP Remote Sensing Phase 2/YANDI WD/RGB POINT CLOUD/unclassified'
+strDirIn = 'H:\\Spectrum_Ecology\\BHP Vegetation\\BHP Remote Sensing Phase 2\\YANDI CREEK\\RGB POINT CLOUD'
+strDirOut = 'H:\\Spectrum_Ecology\\BHP Vegetation\\BHP Remote Sensing Phase 2\\YANDI CREEK\\RGB POINT CLOUD\\unclassified'
 fileExt = '.las'
 binaryPath = 'D:/lib_build/LAStools_20160906/bin/las2las.exe'
 
